@@ -56,7 +56,7 @@ As operações seguem uma ordem de prioridades, ou seja, alguns cálculos (ou ou
 
 Uma tabela verdade é uma representação tabular de todas as combinações possíveis de valores de entrada (geralmente valores booleanos, ou seja, verdadeiro ou falso) para uma expressão lógica.
 
-<p align="center"> <img src="https://slideplayer.com.br/slide/2703036/10/images/35/Operadores+L%C3%B3gicos+Tabela-verdade+para+os+operadores+%26%26+e+%7C%7C+A+B.jpg" width="500" alt="4 Pilares do Pensamento Computacional"/></p>
+<p align="center"> <img src="https://slideplayer.com.br/slide/2703036/10/images/35/Operadores+L%C3%B3gicos+Tabela-verdade+para+os+operadores+%26%26+e+%7C%7C+A+B.jpg" width="600" alt="4 Pilares do Pensamento Computacional"/></p>
 
 <p align="center"><a href="https://slideplayer.com.br/slide/2703036/">Figura 3: Tabela Verdade Java </a></p>
 
@@ -128,7 +128,7 @@ public class ExemploIfElseTernario {
 > if-else-if
 
 <p align="center">
-<img src="https://mermaid.ink/img/pako:eNp11NtugjAYB_BXaXphINPEE6hkuqhkiTe7cVcTLhopsxltSTkki_Fhll3vKXyxlYOItnJD-b5_86PJB0e45wGGDvwUKD6Ad9djQF5JikRqGBt2_tsTbpqg11uAAIeEEbFzqztgPEVgDmzLrzbV_TKbY0FCskdicCxjz8Dqv5yq3LUno2BLaLlD4FjwHAV816x8Xf7t_MtviWFFLObSAJ0OqEFbBYdtsIi5uzLs-rqgKo0ayW5LE1Ua3UvrSlr7uqAqjRtp0pamqjS-l1aVtPJ1QVWyGmnalmaqZN1Ly0pa-rqgKtmNNGtLg75K2QoVR1lSc0--Lt14hOUoInKONiw__xSrOt_MVRWjsSBUjvOmXsh-kkXpde7KAbnJXuvrB_XVg_ryUb04l6Z3OYSudXnfohUSahivhJom7EKKBUUkkF_zsYh6MD1gij3oyGWAxJcHPXaSOZSlfPvN9tBJRYa7MIsDlGKXIPkToNAJUZTIaozYB-eX59M_wI5T-g?type=png)](https://mermaid.live/edit#pako:eNp11NtugjAYB_BXaXphINPEE6hkuqhkiTe7cVcTLhopsxltSTkki_Fhll3vKXyxlYOItnJD-b5_86PJB0e45wGGDvwUKD6Ad9djQF5JikRqGBt2_tsTbpqg11uAAIeEEbFzqztgPEVgDmzLrzbV_TKbY0FCskdicCxjz8Dqv5yq3LUno2BLaLlD4FjwHAV816x8Xf7t_MtviWFFLObSAJ0OqEFbBYdtsIi5uzLs-rqgKo0ayW5LE1Ua3UvrSlr7uqAqjRtp0pamqjS-l1aVtPJ1QVWyGmnalmaqZN1Ly0pa-rqgKtmNNGtLg75K2QoVR1lSc0--Lt14hOUoInKONiw__xSrOt_MVRWjsSBUjvOmXsh-kkXpde7KAbnJXuvrB_XVg_ryUb04l6Z3OYSudXnfohUSahivhJom7EKKBUUkkFzsYh6MD1gij3oyGWAxJcHPXaSOZSlfPvN9tBJRYa7MIsDlGKXIPkToNAJUZTIaozYB-eX59M_wI5T-g" width="400"/><br>
+<img src="https://mermaid.ink/img/pako:eNp11NtugjAYB_BXaXphINPEE6hkuqhkiTe7cVcTLhopsxltSTkki_Fhll3vKXyxlYOItnJD-b5_86PJB0e45wGGDvwUKD6Ad9djQF5JikRqGBt2_tsTbpqg11uAAIeEEbFzqztgPEVgDmzLrzbV_TKbY0FCskdicCxjz8Dqv5yq3LUno2BLaLlD4FjwHAV816x8Xf7t_MtviWFFLObSAJ0OqEFbBYdtsIi5uzLs-rqgKo0ayW5LE1Ua3UvrSlr7uqAqjRtp0pamqjS-l1aVtPJ1QVWyGmnalmaqZN1Ly0pa-rqgKtmNNGtLg75K2QoVR1lSc0--Lt14hOUoInKONiw__xSrOt_MVRWjsSBUjvOmXsh-kkXpde7KAbnJXuvrB_XVg_ryUb04l6Z3OYSudXnfohUSahivhJom7EKKBUUkkF_zsYh6MD1gij3oyGWAxJcHPXaSOZSlfPvN9tBJRYa7MIsDlGKXIPkToNAJUZTIaozYB-eX59M_wI5T-g?type=png)](https://mermaid.live/edit#pako:eNp11NtugjAYB_BXaXphINPEE6hkuqhkiTe7cVcTLhopsxltSTkki_Fhll3vKXyxlYOItnJD-b5_86PJB0e45wGGDvwUKD6Ad9djQF5JikRqGBt2_tsTbpqg11uAAIeEEbFzqztgPEVgDmzLrzbV_TKbY0FCskdicCxjz8Dqv5yq3LUno2BLaLlD4FjwHAV816x8Xf7t_MtviWFFLObSAJ0OqEFbBYdtsIi5uzLs-rqgKo0ayW5LE1Ua3UvrSlr7uqAqjRtp0pamqjS-l1aVtPJ1QVWyGmnalmaqZN1Ly0pa-rqgKtmNNGtLg75K2QoVR1lSc0--Lt14hOUoInKONiw__xSrOt_MVRWjsSBUjvOmXsh-kkXpde7KAbnJXuvrB_XVg_ryUb04l6Z3OYSudXnfohUSahivhJom7EKKBUUkkFzsYh6MD1gij3oyGWAxJcHPXaSOZSlfPvN9tBJRYa7MIsDlGKXIPkToNAJUZTIaozYB-eX59M_wI5T-g" width="500"/><br>
 Fluxograma para demonstrar o uso da instrução if-else-if.</p>
 
 ```java
