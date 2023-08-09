@@ -13,8 +13,9 @@ Dessa forma, podemos dividir o pensamento computacional em 4 pilares:
 3.  **Reconhecimento de padrão:** o que se assemelha no problema, quais as repetições e similaridades que ele tem e que podem auxiliar na sua resolução;
 4.  **Algoritmo:** propõe uma ordem e sequência de passos para resolver o desafio ou problema.
 
-<p align="center"> <img src="https://www.researchgate.net/profile/Carolina-Moreira-18/publication/337223452/figure/fig1/AS:824763496800256@1573650349341/Figura-1-Pilares-do-Pensamento-Computacional-Adaptado-de-Shoop-et-al-2016.ppm" width="400" height="300" alt="4 Pilares do Pensamento Computacional"/></p>
-<p align="center"><a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FCarolina-Moreira-18%2Fpublication%2F337223452%2Ffigure%2Ffig1%2FAS%3A824763496800256%401573650349341%2FFigura-1-Pilares-do-Pensamento-Computacional-Adaptado-de-Shoop-et-al-2016.ppm&tbnid=XskZW6hsnGNynM&vet=12ahUKEwihs7W1ibyAAxU0N7kGHVQLCg0QMygwegUIARD_AQ..i&imgrefurl=https%3A%2F%2Fliag.ft.unicamp.br%2Fcomputacaocriativa%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F03%2FDesafio.html&docid=9pVn4qx3aqVWpM&w=696&h=555&q=pensamento%20computacional&ved=2ahUKEwihs7W1ibyAAxU0N7kGHVQLCg0QMygwegUIARD_AQ">Figura 1: Os 4 Pilares do Pensamento Computacional </a></p>
+<p align="center"> <img src="https://az779572.vo.msecnd.net/screens-400/fdddecb2c52e45af858ff73f50fdfc8b_0" width="400" height="300" alt="4 Pilares do Pensamento Computacional"/></p>
+
+<p align="center"><a href="https://wordwall.net/pt/resource/21599784/dados-e-programa%c3%a7%c3%a3o/pensamento-computacional-princ%c3%adpios">Figura 1: Os 4 Pilares do Pensamento Computacional </a></p>
 
 ## O que é Lógica de Programação?
 
