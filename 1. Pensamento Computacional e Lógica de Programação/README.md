@@ -14,7 +14,6 @@ Dessa forma, podemos dividir o pensamento computacional em 4 pilares:
 4.  **Algoritmo:** propõe uma ordem e sequência de passos para resolver o desafio ou problema.
 
 <p align="center"> <img src="https://az779572.vo.msecnd.net/screens-400/fdddecb2c52e45af858ff73f50fdfc8b_0" alt="4 Pilares do Pensamento Computacional"/></p>
-
 <p align="center"><a href="https://wordwall.net/pt/resource/21599784/dados-e-programa%c3%a7%c3%a3o/pensamento-computacional-princ%c3%adpios">Figura 1: Os 4 Pilares do Pensamento Computacional </a></p>
 
 ## O que é Lógica de Programação?
@@ -41,7 +40,7 @@ Pronto! As intruções de "Como trocar uma lâmpada" pode ser considerada um alg
 
 É uma forma de mostrar o passo a passo de uma maneira mais visual, utilizando elementos gráficos;
 
-<p align="center"> <img src="https://media.brainly.com.br/image/rs:fill/w:640/q:75/plain/https://pt-static.z-dn.net/files/d87/a2f85cf0777f87ff572893c7b2d08514.png"  width="300" height="600" alt="Fluxograma: Como troca de lampada"/></p>
+<p align="center"> <img src="https://media.brainly.com.br/image/rs:fill/w:640/q:75/plain/https://pt-static.z-dn.net/files/d87/a2f85cf0777f87ff572893c7b2d08514.png"  width="400"alt="Fluxograma: Como troca de lampada"/></p>
 <p align="center"><a href="https://brainly.com.br/tarefa/28463278">Figura 2: Fluxograma de Processos Simples: Como troca de lâmpada </a></p>
 
 <p align="center"> <img src="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/02/simbolos-fluxograma.png.webp" alt="Simbolos de um fluxograma de processos"/></p>
