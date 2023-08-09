@@ -12,7 +12,7 @@ Exploraremos variáveis e constantes para manipulação flexível de dados, ente
   
 Abaixo estão os tipos de dados primitivos em Java e seus respectivos tamanhos em bytes:
 
-<p align="center"> <img src="https://2.bp.blogspot.com/-dHvGtjOn-Po/V-047MUt9JI/AAAAAAAABH8/YfOXOaH3Ol0Wsn3XYycKPqlgDiRWxWOcwCLcB/s1600/primitivos.png"  
+<p align="center"> <img src="https://i.pinimg.com/originals/a5/dc/86/a5dc862f5d7ab0c1ccc4fb1dfd8585f1.png"  
 width="600" height="400" alt="Tipos de Dados Primitivos Java"/></p>
 <p align="center"><a href="http://b-one-informatica.blogspot.com/2016/10/tipos-de-datos-primitivos-java.html">Figura 1: Tipos de Dados Primitivos Java</a></p>
 
@@ -42,7 +42,7 @@ static final String NOME = "Camila";
 - Palavras reservadas do java, ou keywords (palavras-chave), são palavras que possuem significado específico no código.
 - Os programadores devem se atentar a essas palavras para que não as usem para qualquer outra coisa além daquilo que elas se propõem a fazer.
   
-<p align="center"> <img src="https://www.di.fc.ul.pt/~in/PCOlivro/PCOonline/Figuras/Reservadas.jpeg" alt="Simbolos de um fluxograma de processos"/></p>
+<p align="center"> <img src="https://www.devmedia.com.br/imagens/javamagazine/ffdcap1fig01.jpg" alt="Palavras Reservadas Java"/></p>
 <p align="center"><a href="http://www.linhadecodigo.com.br/artigo/83/as-52-palavras-reservadas-do-java.aspx">Figura 2: Palavras Reservadas do Java</a></p>
 
 - A convenção de nomenclatura em Java é uma regra a seguir quando se decide nomear seus identificadores, como classes, pacotes, variáveis, constantes, métodos, etc.
