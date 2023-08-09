@@ -13,7 +13,7 @@ Dessa forma, podemos dividir o pensamento computacional em 4 pilares:
 3.  **Reconhecimento de padrão:** o que se assemelha no problema, quais as repetições e similaridades que ele tem e que podem auxiliar na sua resolução;
 4.  **Algoritmo:** propõe uma ordem e sequência de passos para resolver o desafio ou problema.
 
-<p align="center"> <img src="https://az779572.vo.msecnd.net/screens-400/fdddecb2c52e45af858ff73f50fdfc8b_0" width="400" height="300" alt="4 Pilares do Pensamento Computacional"/></p>
+<p align="center"> <img src="https://az779572.vo.msecnd.net/screens-400/fdddecb2c52e45af858ff73f50fdfc8b_0" alt="4 Pilares do Pensamento Computacional"/></p>
 
 <p align="center"><a href="https://wordwall.net/pt/resource/21599784/dados-e-programa%c3%a7%c3%a3o/pensamento-computacional-princ%c3%adpios">Figura 1: Os 4 Pilares do Pensamento Computacional </a></p>
 
@@ -44,14 +44,14 @@ Pronto! As intruções de "Como trocar uma lâmpada" pode ser considerada um alg
 <p align="center"> <img src="https://media.brainly.com.br/image/rs:fill/w:640/q:75/plain/https://pt-static.z-dn.net/files/d87/a2f85cf0777f87ff572893c7b2d08514.png"  width="300" height="600" alt="Fluxograma: Como troca de lampada"/></p>
 <p align="center"><a href="https://brainly.com.br/tarefa/28463278">Figura 2: Fluxograma de Processos Simples: Como troca de lâmpada </a></p>
 
-<p align="center"> <img src="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/02/simbolos-fluxograma.png.webp"  width="500" height="250" alt="Simbolos de um fluxograma de processos"/></p>
+<p align="center"> <img src="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/02/simbolos-fluxograma.png.webp" alt="Simbolos de um fluxograma de processos"/></p>
 <p align="center"><a href="https://rockcontent.com/br/blog/fluxograma-de-processo/">Figura 3: Simbolos de um fluxograma de processos</a></p>
 
 > **Pseudocódigo**
 
 É a forma mais próxima de escrever um código que se assemelha a estrutura das linguagens de programação, como Java, Python e Javascript.
 
-<p align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2WO8KYga--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/5j1n03cbocwrsahomtfi.PNG"  height="250" alt="IDE Égua"/></p>
+<p align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2WO8KYga--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/5j1n03cbocwrsahomtfi.PNG"   alt="IDE Égua"/></p>
 <p align="center"><a href="https://egua.tech/idegua/">Figura 4: Pseudocodigo - Linguagem de Programação Égua </a></p>
 
 ## Conhecendo a Linguagem de Programação Java
@@ -76,7 +76,7 @@ Pronto! As intruções de "Como trocar uma lâmpada" pode ser considerada um alg
 2. Utilizamos o JDK para compilar o seu código-fonte e gerar o arquivo bytecode (arquivo com a extensão .class)
 3. Para executar o seu programa, a JVM lê o arquivo compilado (.class) e as bibliotecas padrões do Java que estão no JRE
 
-<p align="center"> <img src="https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/02/28192846/FIG02_JavaCompilacaoClassesJava.png" height="250" alt="Fases de Execução Java"/></p>
+<p align="center"> <img src="https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/02/28192846/FIG02_JavaCompilacaoClassesJava.png" alt="Fases de Execução Java"/></p>
 <p align="center"><a href="https://blog.grancursosonline.com.br/java-compilacao-de-classes-java/">Figura 5: Fases de Execução Java</a></p>
 
 - **JDK** (Java Development Kit) - é o Kit de Desenvolvimento Java responsável por compilar código-fonte (.java) em bytecode (.class)
@@ -88,8 +88,7 @@ Pronto! As intruções de "Como trocar uma lâmpada" pode ser considerada um alg
 - **OpenJDK:** é uma implementação de código aberto da plataforma Java. Ele é desenvolvido e mantido pela comunidade de desenvolvedores em colaboração com a Oracle e outras empresas. 
 - **LTS (Long-Term Support):** As versões LTS recebem atualizações regulares de segurança e correções de bugs durante um período específico de tempo, normalmente vários anos.
 
-<p align="center"> <img src="../imgs/jdk-version.png"  width="600
-" alt="Versões do Java"/></p>
+<p align="center"> <img src="../imgs/jdk-version.png" alt="Versões do Java"/></p>
 <p align="center"><a href="https://en.wikipedia.org/wiki/Java_version_history">Figura 6: Versões do Java</a></p>
 
 ## Referências
