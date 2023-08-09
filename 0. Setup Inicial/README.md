@@ -8,7 +8,9 @@ Esta aula fornece instruções passo a passo para preparar o ambiente de desenvo
 
 > **Crie sua conta gratuíta**
 
-- <a href="https://github.com/"> Sign Up GitHub</a>
+<p align="center"> <img src="https://devporai.com.br/wp-content/uploads/2023/02/1.png" alt="Fases de Execução Java"/></p>
+<p align="center">
+<p align="center"> <a href="https://github.com/">Figura 1. Sign Up GitHub</a></p>
 
 > Gere uma **PERSONAL ACCESS TOKEN**
 
