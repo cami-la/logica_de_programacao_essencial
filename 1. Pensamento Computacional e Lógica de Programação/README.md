@@ -13,9 +13,6 @@ Dessa forma, podemos dividir o pensamento computacional em 4 pilares:
 3.  **Reconhecimento de padrão:** o que se assemelha no problema, quais as repetições e similaridades que ele tem e que podem auxiliar na sua resolução;
 4.  **Algoritmo:** propõe uma ordem e sequência de passos para resolver o desafio ou problema.
 
-<p align="center"> <img src="https://az779572.vo.msecnd.net/screens-400/fdddecb2c52e45af858ff73f50fdfc8b_0" alt="4 Pilares do Pensamento Computacional"/></p>
-<p align="center"><a href="https://wordwall.net/pt/resource/21599784/dados-e-programa%c3%a7%c3%a3o/pensamento-computacional-princ%c3%adpios">Figura 1: Os 4 Pilares do Pensamento Computacional </a></p>
-
 ## O que é Lógica de Programação?
 
 A lógica de programação serve para traduzir os pensamentos humanos para o computador, já que os computadores funcionam através do código binário e não têm a mesma linha de raciocínio dos humanos. 
@@ -87,7 +84,7 @@ Pronto! As intruções de "Como trocar uma lâmpada" pode ser considerada um alg
 - **OpenJDK:** é uma implementação de código aberto da plataforma Java. Ele é desenvolvido e mantido pela comunidade de desenvolvedores em colaboração com a Oracle e outras empresas. 
 - **LTS (Long-Term Support):** As versões LTS recebem atualizações regulares de segurança e correções de bugs durante um período específico de tempo, normalmente vários anos.
 
-<p align="center"> <img src="../imgs/jdk-version.png" alt="Versões do Java"/></p>
+<p align="center"> <img src="../imgs/jdk-version.png" width="500" alt="Versões do Java"/></p>
 <p align="center"><a href="https://en.wikipedia.org/wiki/Java_version_history">Figura 6: Versões do Java</a></p>
 
 ## Referências
