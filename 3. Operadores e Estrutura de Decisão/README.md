@@ -49,7 +49,7 @@ boolean result3 = !condition1; // false
 
 As operações seguem uma ordem de prioridades, ou seja, alguns cálculos (ou outros) são processados antes de outros. 
 
-<p align="center"> <img src="https://tsimpoo.files.wordpress.com/2013/03/tabela-11-precedc3aancia-de-operadores.png?w=620&h=337" alt="Precedência de Operadores"/></p>
+<p align="center"> <img src="https://tsimpoo.files.wordpress.com/2013/03/tabela-11-precedc3aancia-de-operadores.png" alt="Precedência de Operadores"/></p>
 <p align="center"><a href="https://tsimpoo.wordpress.com/2014/08/12/">Figura 2: Tabela de Precedência de Operadores </a></p>
 
 > **Tabela verdade**
@@ -128,7 +128,7 @@ public class ExemploIfElseTernario {
 > if-else-if
 
 <p align="center">
-<img src="https://mermaid.ink/img/pako:eNp11NtugjAYB_BXaXphINPEE6hkuqhkiTe7cVcTLhopsxltSTkki_Fhll3vKXyxlYOItnJD-b5_86PJB0e45wGGDvwUKD6Ad9djQF5JikRqGBt2_tsTbpqg11uAAIeEEbFzqztgPEVgDmzLrzbV_TKbY0FCskdicCxjz8Dqv5yq3LUno2BLaLlD4FjwHAV816x8Xf7t_MtviWFFLObSAJ0OqEFbBYdtsIi5uzLs-rqgKo0ayW5LE1Ua3UvrSlr7uqAqjRtp0pamqjS-l1aVtPJ1QVWyGmnalmaqZN1Ly0pa-rqgKtmNNGtLg75K2QoVR1lSc0--Lt14hOUoInKONiw__xSrOt_MVRWjsSBUjvOmXsh-kkXpde7KAbnJXuvrB_XVg_ryUb04l6Z3OYSudXnfohUSahivhJom7EKKBUUkkF_zsYh6MD1gij3oyGWAxJcHPXaSOZSlfPvN9tBJRYa7MIsDlGKXIPkToNAJUZTIaozYB-eX59M_wI5T-g?type=png)](https://mermaid.live/edit#pako:eNp11NtugjAYB_BXaXphINPEE6hkuqhkiTe7cVcTLhopsxltSTkki_Fhll3vKXyxlYOItnJD-b5_86PJB0e45wGGDvwUKD6Ad9djQF5JikRqGBt2_tsTbpqg11uAAIeEEbFzqztgPEVgDmzLrzbV_TKbY0FCskdicCxjz8Dqv5yq3LUno2BLaLlD4FjwHAV816x8Xf7t_MtviWFFLObSAJ0OqEFbBYdtsIi5uzLs-rqgKo0ayW5LE1Ua3UvrSlr7uqAqjRtp0pamqjS-l1aVtPJ1QVWyGmnalmaqZN1Ly0pa-rqgKtmNNGtLg75K2QoVR1lSc0--Lt14hOUoInKONiw__xSrOt_MVRWjsSBUjvOmXsh-kkXpde7KAbnJXuvrB_XVg_ryUb04l6Z3OYSudXnfohUSahivhJom7EKKBUUkkFzsYh6MD1gij3oyGWAxJcHPXaSOZSlfPvN9tBJRYa7MIsDlGKXIPkToNAJUZTIaozYB-eX59M_wI5T-g"/><br>
+<img src="https://mermaid.ink/img/pako:eNp11NtugjAYB_BXaXphINPEE6hkuqhkiTe7cVcTLhopsxltSTkki_Fhll3vKXyxlYOItnJD-b5_86PJB0e45wGGDvwUKD6Ad9djQF5JikRqGBt2_tsTbpqg11uAAIeEEbFzqztgPEVgDmzLrzbV_TKbY0FCskdicCxjz8Dqv5yq3LUno2BLaLlD4FjwHAV816x8Xf7t_MtviWFFLObSAJ0OqEFbBYdtsIi5uzLs-rqgKo0ayW5LE1Ua3UvrSlr7uqAqjRtp0pamqjS-l1aVtPJ1QVWyGmnalmaqZN1Ly0pa-rqgKtmNNGtLg75K2QoVR1lSc0--Lt14hOUoInKONiw__xSrOt_MVRWjsSBUjvOmXsh-kkXpde7KAbnJXuvrB_XVg_ryUb04l6Z3OYSudXnfohUSahivhJom7EKKBUUkkF_zsYh6MD1gij3oyGWAxJcHPXaSOZSlfPvN9tBJRYa7MIsDlGKXIPkToNAJUZTIaozYB-eX59M_wI5T-g?type=png)](https://mermaid.live/edit#pako:eNp11NtugjAYB_BXaXphINPEE6hkuqhkiTe7cVcTLhopsxltSTkki_Fhll3vKXyxlYOItnJD-b5_86PJB0e45wGGDvwUKD6Ad9djQF5JikRqGBt2_tsTbpqg11uAAIeEEbFzqztgPEVgDmzLrzbV_TKbY0FCskdicCxjz8Dqv5yq3LUno2BLaLlD4FjwHAV816x8Xf7t_MtviWFFLObSAJ0OqEFbBYdtsIi5uzLs-rqgKo0ayW5LE1Ua3UvrSlr7uqAqjRtp0pamqjS-l1aVtPJ1QVWyGmnalmaqZN1Ly0pa-rqgKtmNNGtLg75K2QoVR1lSc0--Lt14hOUoInKONiw__xSrOt_MVRWjsSBUjvOmXsh-kkXpde7KAbnJXuvrB_XVg_ryUb04l6Z3OYSudXnfohUSahivhJom7EKKBUUkkFzsYh6MD1gij3oyGWAxJcHPXaSOZSlfPvN9tBJRYa7MIsDlGKXIPkToNAJUZTIaozYB-eX59M_wI5T-g" width="400"/><br>
 Fluxograma para demonstrar o uso da instrução if-else-if.</p>
 
 ```java
