@@ -8,8 +8,7 @@ Esta aula fornece instruções passo a passo para preparar o ambiente de desenvo
 
 > **Crie sua conta gratuíta**
 
-<p align="center"> <img src="../imagens/00. sign-up-github.png"   height="400" alt="Sign Up GitHub"/></p>
-<p align="center"><a href="https://github.com/">Figura 1: Sign Up GitHub</a></p>
+- <a href="https://github.com/"> Sign Up GitHub</a>
 
 > Gere uma **PERSONAL ACCESS TOKEN**
 
