@@ -84,7 +84,7 @@ Pronto! As intruções de "Como trocar uma lâmpada" pode ser considerada um alg
 - **OpenJDK:** é uma implementação de código aberto da plataforma Java. Ele é desenvolvido e mantido pela comunidade de desenvolvedores em colaboração com a Oracle e outras empresas. 
 - **LTS (Long-Term Support):** As versões LTS recebem atualizações regulares de segurança e correções de bugs durante um período específico de tempo, normalmente vários anos.
 
-<p align="center"> <img src="../imgs/jdk-version.png" width="500" alt="Versões do Java"/></p>
+<p align="center"> <img src="../imgs/jdk-version.png" width="600" alt="Versões do Java"/></p>
 <p align="center"><a href="https://en.wikipedia.org/wiki/Java_version_history">Figura 6: Versões do Java</a></p>
 
 ## Referências
