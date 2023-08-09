@@ -4,7 +4,7 @@
 
 Operadores são símbolos que representam atribuições, cálculos e ordem dos dados. 
 
-<p align="center"> <img src="https://3.bp.blogspot.com/_fHw7UbiXVVc/TJfy4KJVPTI/AAAAAAAAAB0/axLRvliRZUw/s1600/operadores2.png" width="400" height="250" alt="4 Pilares do Pensamento Computacional"/></p>
+<p align="center"> <img src="https://3.bp.blogspot.com/_fHw7UbiXVVc/TJfy4KJVPTI/AAAAAAAAAB0/axLRvliRZUw/s1600/operadores2.png" alt="Operadores Java"/></p>
 <p align="center"><a href="http://www.deinf.ufma.br/~mario/grad/poo/aulas/TiposOperadores.pdf">Figura 1: Operadores Java </a></p>
 
 - Operadores Aritméticos:
@@ -49,14 +49,14 @@ boolean result3 = !condition1; // false
 
 As operações seguem uma ordem de prioridades, ou seja, alguns cálculos (ou outros) são processados antes de outros. 
 
-<p align="center"> <img src="https://tsimpoo.files.wordpress.com/2013/03/tabela-11-precedc3aancia-de-operadores.png?w=620&h=337" width="400" height="250" alt="4 Pilares do Pensamento Computacional"/></p>
+<p align="center"> <img src="https://tsimpoo.files.wordpress.com/2013/03/tabela-11-precedc3aancia-de-operadores.png?w=620&h=337" alt="Precedência de Operadores"/></p>
 <p align="center"><a href="https://tsimpoo.wordpress.com/2014/08/12/">Figura 2: Tabela de Precedência de Operadores </a></p>
 
 > **Tabela verdade**
 
 Uma tabela verdade é uma representação tabular de todas as combinações possíveis de valores de entrada (geralmente valores booleanos, ou seja, verdadeiro ou falso) para uma expressão lógica.
 
-<p align="center"> <img src="https://slideplayer.com.br/slide/2703036/10/images/35/Operadores+L%C3%B3gicos+Tabela-verdade+para+os+operadores+%26%26+e+%7C%7C+A+B.jpg" alt="4 Pilares do Pensamento Computacional"/></p>
+<p align="center"> <img src="https://slideplayer.com.br/slide/2703036/10/images/35/Operadores+L%C3%B3gicos+Tabela-verdade+para+os+operadores+%26%26+e+%7C%7C+A+B.jpg" width="500" alt="4 Pilares do Pensamento Computacional"/></p>
 
 <p align="center"><a href="https://slideplayer.com.br/slide/2703036/">Figura 3: Tabela Verdade Java </a></p>
 
