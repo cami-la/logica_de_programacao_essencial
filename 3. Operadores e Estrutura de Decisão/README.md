@@ -224,12 +224,12 @@ public class ExemploIfDentroDeIf {
 
 # Bora Praticar!
 
-1. Verifique se um número é positivo.
-2. Verifique se uma pessoa é maior de idade.
-3. Verifique se uma pessoa é maior de idade. (Utilize o Operador Ternário)
-4. Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!"
-5. Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.  
-6. Determine o maior de três números. Se algum dos números for negativo, exiba: "Valor não permitido."
+1. **Verificação de Número Positivo**: Verifique se um número é positivo.
+2. **Verificação de Maioridade**: Verifique se uma pessoa é maior de idade.
+3. **Verificação de Maioridade com Operador Ternário**: Verifique se uma pessoa é maior de idade. (Utilize o Operador Ternário)
+4. **Mensagem de Turno de Estudo**: Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!"
+5. **Verificação de Sexo**: Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.  
+6. **Maior de Três Números com Verificação de Negativos**: Determine o maior de três números. Se algum dos números for negativo, exiba: "Valor não permitido."
 
 > **Continue praticando:** https://wiki.python.org.br/EstruturaDeDecisao
 

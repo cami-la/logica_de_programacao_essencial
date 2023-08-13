@@ -111,12 +111,12 @@ public class EntradaDadosComScanner {
 
 # Bora Praticar!
 
-1. Faça um Programa que mostre a mensagem "Alo mundo". 
-2. Faça um Programa que peça um o nome do usuário e então mostre a mensagem "Seja bem-vindo(a) [nome do usuário]".  
-3. Faça um Programa que peça dois números inteiros e imprima a soma. 
-4. Faça um Programa peça: _Nome de um produto, Valor unitário deste produto e Quantidade do produto._<br>
+1. **Mensagem "Alô Mundo"**: Faça um Programa que mostre a mensagem "Alo mundo". 
+2. **Mensagem de Boas-Vindas**: Faça um Programa que peça um o nome do usuário e então mostre a mensagem "Seja bem-vindo(a) [nome do usuário]".  
+3. **Soma de Números Inteiros**: Faça um Programa que peça dois números inteiros e imprima a soma. 
+4. **Cálculo de Valor Total do Produto: Faça um Programa peça**: _Nome de um produto, Valor unitário deste produto e Quantidade do produto._<br>
 Ao final, imprima a frase: "O Produto [nome do produto] com o valor unitário R$ [valor unitário] com a quantidade [quantidade do produto] custará o total de R$ [valor total do produto]."
-5. Crie um programa que converta centímetros para metros. O usuário deve informar a medida em centímetros, e o programa deve exibir a correspondente medida em metros. _(Lembre-se de que 1 metro é igual a 100 centímetros.)_
+5. **Conversão de Centímetros para Metros**: Crie um programa que converta centímetros para metros. O usuário deve informar a medida em centímetros, e o programa deve exibir a correspondente medida em metros. _(Lembre-se de que 1 metro é igual a 100 centímetros.)_
 
 > **Continue praticando:** https://wiki.python.org.br/EstruturaSequencial
 

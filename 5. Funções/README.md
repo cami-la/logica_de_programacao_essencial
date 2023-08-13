@@ -108,11 +108,11 @@ public class Calculadora {
 
 # Bora Praticar!
 
-1. Faça um programa, com uma função que necessite de um argumento. A função retorna o valor de caractere ‘P’, se seu argumento for positivo, e ‘N’, se seu argumento for zero ou negativo. 
-2. Calculadora de IMC: Crie uma função que calcule o Índice de Massa Corporal (IMC) com base no peso e altura fornecidos.
-3. Conversor de Temperatura: Crie funções para converter temperaturas de Celsius para Fahrenheit e vice-versa.
-4. Conversor de Moedas: Implemente funções para converter valores entre diferentes moedas, como Dólar para Real e Euro para Dólar, por exemplo.
-5. Contagem de Vogais e Consoantes: Crie uma função que receba uma string como entrada e conte o número de vogais e consoantes nela.
+1. **Verificação de Sinal de Número**: Faça um programa com uma função que necessite de um argumento. A função retorna o caractere 'P' se o argumento for positivo, e 'N' se o argumento for zero ou negativo.
+2. **Calculadora de IMC**: Implemente uma função que calcule o Índice de Massa Corporal (IMC) com base no peso e altura fornecidos.
+3. **Conversor de Temperatura**: Crie funções para converter temperaturas de Celsius para Fahrenheit e vice-versa.
+4. **Conversor de Moedas**: Desenvolva funções para converter valores entre diferentes moedas, como Dólar para Real e Euro para Dólar, por exemplo.
+5. **Contagem de Vogais e Consoantes**: Crie uma função que receba uma string como entrada e conte o número de vogais e consoantes presentes nela.
 
 > **Continue praticando:** https://wiki.python.org.br/ExerciciosFuncoes<br>
 

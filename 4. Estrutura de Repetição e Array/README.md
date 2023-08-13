@@ -116,12 +116,12 @@ public class ExemploForEachArrayLivros {
 
 # Bora Praticar!
 
-1. Faça um programa que leia 5 números e informe o maior número. 
-2. Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50. 
-3. Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido. 
-4. Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada.
-5. Faça um Programa que leia 10 números inteiros e armazene-os num vetor. Armazene os números pares no vetor PAR e os números IMPARES no vetor impar. Imprima os três vetores. 
-6. Faça um Programa que leia um vetor de 5 números inteiros, mostre a soma, a multiplicação e os números.
+1. **Maior Número**: Faça um programa que leia 5 números e informe o maior número. 
+2. **Números Ímpares**: Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50. 
+3. **Validação de Nota**: Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido. 
+4. **Gerador de Tabuada**: Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada.
+5. **Vetor de Pares e Ímpares**: Faça um Programa que leia 10 números inteiros e armazene-os num vetor. Armazene os números pares no vetor PAR e os números IMPARES no vetor impar. Imprima os três vetores. 
+6. **Soma, Multiplicação e Números de um Vetor**: Faça um Programa que leia um vetor de 5 números inteiros, mostre a soma, a multiplicação e os números.
 
 > **Continue praticando:** https://wiki.python.org.br/EstruturaDeRepeticao<br>
 > **Continue praticanto:** https://wiki.python.org.br/ExerciciosListas
