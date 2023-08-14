@@ -59,6 +59,9 @@ public class ExemploFor {
 }
 ```
 
+- comando `break` é utilizado para terminar de forma abrupta uma repetição.
+- Quando comando `continue` é executado, os comandos restantes da repetição são ignorados e programa volta a testar novamente a condição.
+
 ## Array
 
 - Um array é uma estrutura de dados que armazena um conjunto de valores do mesmo tipo.
