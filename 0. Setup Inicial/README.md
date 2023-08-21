@@ -50,8 +50,8 @@ Esta aula fornece instruções passo a passo para preparar o ambiente de desenvo
 1. Abrir o Vs code
 2. Abrir o menu de extensões: (Ctrl + Shift + X)
 3. Colar os comandos abaixo e fazer as instalações:
-    - `vscode:extension/vscjava.vscode-java-pack`
-    - `vscode:extension/pivotal.vscode-boot-dev-pack`
+3. Colar os comandos abaixo e fazer as instalações:
+    - `vscjava.vscode-java-pack`
 4. Configuração concluída!
 
 ### Git
