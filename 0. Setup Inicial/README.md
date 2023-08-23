@@ -46,13 +46,14 @@ Esta aula fornece instruções passo a passo para preparar o ambiente de desenvo
 > Configuração para **desenvolvimento Java**:
 
 *O suporte para Java no Visual Studio Code é fornecido por meio de uma ampla variedade de extensões.​*
- 
-1. Abrir o Vs code
-2. Abrir o menu de extensões: (Ctrl + Shift + X)
-3. Colar os comandos abaixo e fazer as instalações:
-3. Colar os comandos abaixo e fazer as instalações:
+
+1. [Install the Coding Pack for Java](https://aka.ms/vscode-java-installer-win)
+2. Abrir o Vs code
+3. Abrir o menu de extensões: (Ctrl + Shift + X)
+4. Colar os comandos abaixo e fazer as instalações:
+5. Colar os comandos abaixo e fazer as instalações:
     - `vscjava.vscode-java-pack`
-4. Configuração concluída!
+6. Configuração concluída!
 
 ### Git
 
@@ -95,11 +96,32 @@ Esta aula fornece instruções passo a passo para preparar o ambiente de desenvo
 
 *O suporte para Java no Visual Studio Code é fornecido por meio de uma ampla variedade de extensões.​*
 
-1. Abrir o Vs code
-2. Abrir o menu de extensões: (Ctrl + Shift + X)
-3. Colar os comandos abaixo e fazer as instalações:
+<h4> INSTALAÇÃO OPENJDK 17</h4>
+
+- Abra o terminal (Ctrl + Alt + t)
+- Verifique se você tem o Java instalado: <code> java --version </code>
+- Caso não, instale: <code> sudo apt-get install openjdk-17-jdk</code>
+- Verifique se o Java realmente foi instalado e em qual caminho:
+  - <code>java --version</code>
+  - <code>sudo update-alternatives --config java</code>
+- Copie e guarde o caminho de instalação do Java, no meu caso: <code>/usr/lib/jvm/java-17-openjdk-amd64/bin/java</code>
+- Configure a variável em ambiente <code>JAVA_HOME</code>:
+    - Abra o arquivo de configuração .bashrc. (Vou utilizar o editor gedit): <code>sudo gedit ~/.bashrc</code>
+    - Copie o código abaixo e cole no final do arquivo .bashrc (Observe o caminho do JAVA_HOME):<br>
+      - <code>JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64</code><br>
+      - <code>export JAVA_HOME</code><br>
+      - <code>export PATH=$PATH:$JAVA_HOME</code>
+    - Salve o arquivo .bashrc
+- Confira se as configurações foram salvas: <code>cat ~/.bashrc</code>
+- Feche o terminal e abra novamente</li>
+- Conferir mais uma vez se o Java está instalado
+- Instalação e configurações iniciais concluídas!
+
+2. Abrir o Vs code
+3. Abrir o menu de extensões: (Ctrl + Shift + X)
+4. Colar os comandos abaixo e fazer as instalações:
     - `vscjava.vscode-java-pack`
-4. Configuração concluída!
+5. Configuração concluída!
 
 ### Git
 
