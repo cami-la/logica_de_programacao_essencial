@@ -8,8 +8,8 @@ Usar o pensamento computacional é ver um desafio ou problema, refletir sobre el
 
 Dessa forma, podemos dividir o pensamento computacional em 4 pilares:
 
-1. **Decomposição**: dividir o seu desafio em problemas menores, para facilitar a sua compreensão;
-2.  **Abstração:** reconhecer o que é mais importante na situação-problema, para deixar de lado o que não for essencial;
+1.  **Abstração:** reconhecer o que é mais importante na situação-problema, para deixar de lado o que não for essencial;
+2. **Decomposição**: dividir o seu desafio em problemas menores, para facilitar a sua compreensão;
 3.  **Reconhecimento de padrão:** o que se assemelha no problema, quais as repetições e similaridades que ele tem e que podem auxiliar na sua resolução;
 4.  **Algoritmo:** propõe uma ordem e sequência de passos para resolver o desafio ou problema.
 
