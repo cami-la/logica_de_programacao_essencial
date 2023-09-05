@@ -96,7 +96,7 @@ Esta aula fornece instruções passo a passo para preparar o ambiente de desenvo
 
 *O suporte para Java no Visual Studio Code é fornecido por meio de uma ampla variedade de extensões.​*
 
-<h4> INSTALAÇÃO OPENJDK 17</h4>
+<h4>⚠️ INSTALAÇÃO OPENJDK 17</h4>
 
 - Abra o terminal (Ctrl + Alt + t)
 - Verifique se você tem o Java instalado: <code> java --version </code>
@@ -121,7 +121,7 @@ Esta aula fornece instruções passo a passo para preparar o ambiente de desenvo
 3. Abrir o menu de extensões: (Ctrl + Shift + X)
 4. Colar os comandos abaixo e fazer as instalações:
     - `vscjava.vscode-java-pack`
-5. Configuração concluída!
+3. Configuração concluída!
 
 ### Git
 
