@@ -37,7 +37,7 @@ public class ExemploDoWhile {
         int contador = 1;
         do {
             System.out.println("Contador: " + contador);
-            contador++;
+            contador++; //contador = contador + 1;
         } while (contador <= 5);
     }
 }
@@ -60,7 +60,37 @@ public class ExemploFor {
 ```
 
 - comando `break` é utilizado para terminar de forma abrupta uma repetição.
+```java
+public class ExemploBreak {
+    public static void main(String[] args) {
+        int contador = 1;
+        while (contador <= 10) {
+            System.out.println("Contagem: " + contador);
+            if (contador == 5) {
+                System.out.println("O loop foi interrompido.");
+                break; // Interrompe o loop quando contador atinge 5
+            }
+            contador++;
+        }
+        System.out.println("Fim do programa.");
+    }
+}
+```
 - Quando comando `continue` é executado, os comandos restantes da repetição são ignorados e programa volta a testar novamente a condição.
+```java
+public class ExemploContinue {
+    public static void main(String[] args) {
+        for (int contador = 1; contador <= 10; contador++) {
+            if (contador == 5) {
+                System.out.println("Pulando o número 5.");
+                continue; // Pula a iteração atual e continua com a próxima
+            }
+            System.out.println("Contagem: " + contador);
+        }
+        System.out.println("Fim do programa.");
+    }
+}
+```
 
 ## Array
 
