@@ -153,7 +153,7 @@ public class ExemploForEachArrayLivros {
 2. **Validação de Nota**: Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido. 
 3. **Gerador de Tabuada**: Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada.
 4. **Vetor de Pares e Ímpares**: Faça um Programa que leia 5 números inteiros e armazene-os num vetor.  Imprima o valores pares e ímpares deste vetor. 
-5. **Soma, Multiplicação e Números de um Vetor**: Faça um Programa que leia um vetor de 5 números inteiros, mostre a soma, a multiplicação e os números.
+5. **Soma, Multiplicação e Números de um Vetor**: Faça um Programa que leia um vetor de 3 números inteiros, mostre a soma, a multiplicação e os números.
 
 > **Continue praticando:** https://wiki.python.org.br/EstruturaDeRepeticao<br>
 > **Continue praticanto:** https://wiki.python.org.br/ExerciciosListas
