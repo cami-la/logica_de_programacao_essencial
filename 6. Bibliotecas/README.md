@@ -63,10 +63,9 @@ System.out.println("O dobro do número é: " + (numero * 2));
 # Bora Praticar!
 
 1. **Contagem de Caracteres**: Desenvolva um programa que conta quantos caracteres uma string fornecida pelo usuário possui.
-2. **Cálculo de Média**: Crie um programa que solicite ao usuário três números e calcule a média aritmética entre eles usando a classe Math.
-3. **Jogo de Adivinhação**: Crie um jogo em que o programa gera um número aleatório entre 1 e 100, e o jogador precisa adivinhar qual é o número. O programa deve dar dicas se o número é maior ou menor. 
-4. **Verificação de Ano Bissexto**: Crie um programa que determine se um ano fornecido pelo usuário é bissexto ou não.
-5. **Dia da Semana de uma Data**: Desenvolva um programa que determine o dia da semana em que cai uma data fornecida pelo usuário.
+2. **Jogo de Adivinhação**: Crie um jogo em que o programa gera um número aleatório entre 1 e 10, e o jogador precisa adivinhar qual é o número. O programa deve dar dicas se o número é maior ou menor. 
+3. **Verificação de Ano Bissexto**: Crie um programa que determine se um ano fornecido pelo usuário é bissexto ou não.
+4. **Dia da Semana de uma Data**: Desenvolva um programa que determine o dia da semana em que cai uma data fornecida pelo usuário.
 
 ## Referências
 
