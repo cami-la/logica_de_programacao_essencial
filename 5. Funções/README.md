@@ -17,15 +17,15 @@ Um método em Java é composto por vários elementos:
 
 <br>
 
-2. **Tipo de Retorno e Assinatura**: Cada método em Java possui um tipo de retorno que define o tipo de dado que o método irá fornecer como saída. Isso pode variar de tipos primitivos a objetos complexos ou até mesmo ausência de retorno, indicado pelo uso da palavra-chave void.
+1. **Tipo de Retorno**: Cada método em Java possui um tipo de retorno que define o tipo de dado que o método irá fornecer como saída. Isso pode variar de tipos primitivos a objetos complexos ou até mesmo ausência de retorno, indicado pelo uso da palavra-chave `void.
 
-3. **Nome do Método**: Um identificador exclusivo que define o método e sua funcionalidade. O nome deve refletir claramente o propósito do método.
+2. **Nome do Método**: Um identificador exclusivo que define o método e sua funcionalidade. O nome deve refletir claramente o propósito do método.
 
-4. **Lista de Parâmetros**: Os parâmetros fornecem dados de entrada para o método. Eles são especificados por tipo e nome, permitindo que o método trabalhe com informações externas. Se o método não tiver parâmetro, deixe os parênteses em branco.
+3. **Lista de Parâmetros**: Os parâmetros fornecem dados de entrada para o método. Eles são especificados por tipo e nome, permitindo que o método trabalhe com informações externas. Se o método não tiver parâmetro, deixe os parênteses em branco.
 
-5. **Assinatura do método**: Engloba seu nome e a lista de parâmetros que ele espera receber. A combinação única de nome e tipos de parâmetros constitui a assinatura, permitindo a diferenciação entre métodos similares.
+4. **Assinatura do método**: Engloba seu nome e a lista de parâmetros que ele espera receber. A combinação única de nome e tipos de parâmetros constitui a assinatura, permitindo a diferenciação entre métodos similares.
 
-6. **Corpo do Método**: Contém a lógica do método, onde as ações desejadas são implementadas. 
+5. **Corpo do Método**: Contém a lógica do método, onde as ações desejadas são implementadas. 
    
     - É delimitado por um par de chaves e pode conter declarações, operações e fluxos de controle.
     - Instrução de Retorno: Se o método tiver um tipo de retorno diferente de void, ele deve conter uma instrução return que fornece o valor resultante.
@@ -41,7 +41,7 @@ public class Calculadora {
         double resultado = 0;
 
         switch (operacao) {
-            case "soma" -> resultado = mum1 + num2;
+            case "soma" -> resultado = num1 + num2;
             case "subtracao" -> resultado = num1 - num2;
             case "multiplicacao" -> resultado = num1 * num2;
             case "divisao" -> resultado = num1 / num2;
@@ -111,7 +111,7 @@ public class Calculadora {
 1. **Verificação de Sinal de Número**: Faça um programa com uma função que necessite de um argumento. A função retorna o caractere 'P' se o argumento for positivo, e 'N' se o argumento for zero ou negativo.
 2. **Calculadora de IMC**: Implemente uma função que calcule o Índice de Massa Corporal (IMC) com base no peso e altura fornecidos.
 3. **Conversor de Temperatura**: Crie funções para converter temperaturas de Celsius para Fahrenheit e vice-versa.
-4. **Conversor de Moedas**: Desenvolva funções para converter valores entre diferentes moedas, como Dólar para Real e Euro para Dólar, por exemplo.
+4. **Conversor de Moedas**: Desenvolva funções para converter valores entre diferentes moedas, como Dólar para Real e Real para Dólar, por exemplo.
 5. **Contagem de Vogais e Consoantes**: Crie uma função que receba uma string como entrada e conte o número de vogais e consoantes presentes nela.
 
 > **Continue praticando:** https://wiki.python.org.br/ExerciciosFuncoes<br>
